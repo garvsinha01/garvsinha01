@@ -4,9 +4,10 @@
 
 I'm a first-year Computer Science (AI & ML) student interested in AI, software development, and open source. Currently learning Python, Git, and Data Structures while building projects to strengthen my fundamentals.
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
+
 - Python
 - Data Structures & Algorithms
-- Machine Learning
+- Machine Learning Fundamentals
 
- Onward.
+ Working On
