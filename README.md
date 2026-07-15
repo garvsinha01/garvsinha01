@@ -6,14 +6,7 @@ I'm a first-year Computer Science (AI & ML) student interested in AI, software d
 
 ## 🌱 Currently Learning
 - Python
-- Git & GitHub
 - Data Structures & Algorithms
 - Machine Learning
 
-## 🎯 Focus Areas
-- Artificial Intelligence
-- Machine Learning
-- Software Development
-- Open Source
-
-Onward.
+ Onward.
