@@ -8,17 +8,12 @@ I'm a first-year Computer Science (AI & ML) student with an interest in AI, soft
 - Python
 - Git & GitHub
 - Data Structures & Algorithms
-- Machine Learning (beginner)
+- Machine Learning
 
-## 🎯 Goals
-- Build real-world AI projects
-- Contribute to open-source software
-- Continuously learn and improve as a developer
+## 🎯 Focus Areas
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Open Source
 
-## 🛠️ Tools
-- Python
-- Git
-- GitHub
-- VS Code
-
-"Still Learning"
+Onward
