@@ -2,7 +2,7 @@
 
 🎓 B.Tech Student in Computer Science (AI & ML)
 
-I'm a first-year Computer Science (AI & ML) student with an interest in AI, software development, and open source. I'm currently learning Python, Git, and Data Structures while building projects to strengthen my fundamentals.
+I'm a first-year Computer Science (AI & ML) student interested in AI, software development, and open source. Currently learning Python, Git, and Data Structures while building projects to strengthen my fundamentals.
 
 ## 🌱 Currently Learning
 - Python
@@ -16,4 +16,4 @@ I'm a first-year Computer Science (AI & ML) student with an interest in AI, soft
 - Software Development
 - Open Source
 
-Onward
+Onward.
