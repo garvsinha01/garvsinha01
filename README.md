@@ -6,7 +6,7 @@ I'm a first-year Computer Science (AI & ML) student interested in AI, software d
 
 ## 🌱 Currently Working On
 
-- Python
+- C
 - Data Structures & Algorithms
 - Machine Learning Fundamentals
 
