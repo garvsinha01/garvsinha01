@@ -1,4 +1,4 @@
-# Hi, I'm Garv 👋
+# Hi, I'm Garv
 
 B.Tech Student in Computer Science (AI & ML)
 
